@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='aiy-projects-python',
+    name='pyAIY',
     version='1.2',
     description='AIY Python API',
     author='AIY Team',
